@@ -54,6 +54,7 @@ class _InputsPageState extends State<InputsPage> {
     return TextField(
       autofocus: true,
       textCapitalization: TextCapitalization.sentences,
+      textInputAction: TextInputAction.go,
       decoration: InputDecoration(
         border: OutlineInputBorder(borderRadius: BorderRadius.circular(20.0)),
         counter: Text('Letras ${_nombre.length}'),
