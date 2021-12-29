@@ -29,6 +29,7 @@ flutter run
 * user_preferences - Mobile app to learn how to store small user preferences even after closing the application.
 * products_app - Mobile app to learn how to use Firebase where there is an authentication and it is possible upload "products" and edit them.
 * notifications - Mobile app where Firebase is used to display data on different devices through a unique token through notifications.
+* news_app - Mobile app to learn about rest an API using provider as a state management.
 
 
 ## Built With
