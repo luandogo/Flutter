@@ -31,6 +31,7 @@ flutter run
 * notifications - Mobile app where Firebase is used to display data on different devices through a unique token through notifications.
 * news_app - Mobile app to learn about rest an API using provider as a state management.
 * intermediate_designs - Mobile app to know how to implement more advanced designs that look interesting.
+* band_names/band_names_server - Mobile app connect through sockets and update information in real time with a socket made with node.
 
 
 ## Built With
